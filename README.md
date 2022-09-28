@@ -40,3 +40,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramkbgs&show_icons=true&locale=en" alt="vikramkbgs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikramkbgs&" alt="vikramkbgs" /></p>
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
