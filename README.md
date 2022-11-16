@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [https://github.com/vikramkbgs/codingNInja/blob/main/README.md](https://github.com/vikramkbgs/codingNInja/blob/main/README.md)
 
-- 👨‍💻 All of my projects are available at [https://github.com/vikramkbgs/](https://github.com/vikramkbgs/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/vikramkbgs/)
 
 - 📝 I regularly write articles on [https://github.com/vikramkbgs/codingNInja/blob/main/README.md](https://github.com/vikramkbgs/codingNInja/blob/main/README.md)
 
