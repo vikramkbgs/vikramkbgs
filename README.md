@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vikramkbgs@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/vikramkbgs/codingNInja/blob/main/README.md](https://github.com/vikramkbgs/codingNInja/blob/main/README.md)
+- 📄 Know about my experiences [visit](https://linkedin.com/in/vikramkbgs)
 
 - ⚡ Fun fact **i'm a software engineer**
 
