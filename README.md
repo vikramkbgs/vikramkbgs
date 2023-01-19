@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
-<h4 align="center">A skilled and enthusiastic developer from India with expertise in both Java and the MERN stack</h4>
+<h3 align="center">A skilled and enthusiastic developer from India with expertise in both Java and the MERN stack</h3>
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=vikramkbgs&theme=darkhub&row=1&column=8" alt="vikramkbgs" /></a></p>
 
