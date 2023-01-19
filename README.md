@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikramkbgs&theme=dark&row=1&column=8" alt="vikramkbgs" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=vikramkbgs&theme=dark&row=1&column=8" alt="vikramkbgs" /></a></p>
 
 - 🔭 I’m currently working on [Stopwatch](https://vikramkbgs.github.io/Stopwatch/)
 
