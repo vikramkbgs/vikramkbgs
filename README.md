@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
-<h3 align="center">A skilled and enthusiastic Softwer Engineer. </h3>
+<h3 align="center">A skilled and enthusiastic Software Engineer. </h3>
 
 **About me**
 
