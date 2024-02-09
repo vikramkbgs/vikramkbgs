@@ -1,4 +1,4 @@
-# Vikram
+<h1 align="center">Hi 👋, I'm Vikram</h1>
 
 👋 Hi there, I'm Vikram, a backend developer passionate about building robust and scalable systems.
 
