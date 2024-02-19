@@ -17,9 +17,8 @@
 
 ## Projects
 
-- [Project 1 Name](#) - Brief description.
-- [Project 2 Name](#) - Brief description.
-- [Project 3 Name](#) - Brief description.
+- [Polling API Server](#) - The Polling API is a simple RESTful API that allows users to create and manage polls. It provides endpoints to create questions, add options to questions, vote on options, and view poll details.
+- [Marvel-Heroes](#) -A web application that allows users to browse and search for their favorite Marvel heroes and learn more about them.
 
 ## Contact
 
