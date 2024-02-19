@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vikram</h1>
 
-👋 Hi there, I'm Vikram, a backend developer passionate about building robust and scalable systems.
+👋 Hi there, I'm Vikram, a Software developer passionate about building robust and scalable systems.
 
 ## About Me
 
-- 💼 Currently working as a Backend Developer.
+- 💼 Currently working as a Software Developer Intern(Paid).
 - 💻 Proficient in languages like Python, Java, and Node.js.
 - 🛠️ Experienced in developing RESTful APIs, database management, and optimizing backend processes.
 
