@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 💼 Currently working as a Software Developer Intern(Paid).
+- 💼 Currently working as a Software Developer.
 - 💻 Proficient in languages like Python, Java, and Node.js.
 - 🛠️ Experienced in developing RESTful APIs, database management, and optimizing backend processes.
 
