@@ -45,5 +45,5 @@
 
 ## Contact
 
-Feel free to reach out to me on [GitHub](https://github.com/vikramkbgs/vikramkbgs/issues).
+Feel free to reach out to me on [Click Me](https://github.com/vikramkbgs/vikramkbgs/issues).
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=vikramkbgs&theme=darkhub&row=1&column=8" alt="vikramkbgs" /></a></p>
