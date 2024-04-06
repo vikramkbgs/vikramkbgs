@@ -7,7 +7,7 @@
 - 💼 Currently working as a Software Developer.
 - 💻 Proficient in languages like Java, Node.js, and Python.
 - 🛠️ Experienced in building RESTful APIs, managing databases, and optimizing backend processes.
-- 🏗️ Skilled in implementing design patterns to ensure code maintainability and scalability.
+- 🏗️ Skilled in implementing **MVC** design patterns to ensure code maintainability and scalability.
 - 🖼️ Familiar with cloud services such as AWS, leveraging them to manage data efficiently and securely.
 - 📝 Proficient in implementing logging and monitoring solutions to track application performance and troubleshoot issues.
 - 🛠️ Experienced in managing database schema changes using migration tools, enabling seamless updates and deployments.
