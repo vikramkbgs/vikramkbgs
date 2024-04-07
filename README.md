@@ -12,32 +12,6 @@
 - 📝 Proficient in implementing logging and monitoring solutions to track application performance and troubleshoot issues.
 - 🛠️ Experienced in managing database schema changes using migration tools, enabling seamless updates and deployments.
 
-## Technologies & Tools
-
-### Languages
-- **Python**: Proficient in developing backend applications, data analysis, and automation scripts using Python.
-- **Java**: Experienced in building enterprise-level applications and web services using Java.
-- **Node.js**: Skilled in developing scalable and efficient server-side applications and APIs using Node.js.
-
-### Frameworks
-- **Flask**: Experienced in building web applications and RESTful APIs with Flask, known for its simplicity and flexibility.
-- **Spring Boot**: Proficient in developing robust and scalable Java applications using Spring Boot, with built-in features for rapid development.
-- **Express.js**: Skilled in building web applications and APIs with Express.js, a lightweight and flexible Node.js framework.
-
-### Databases
-- **PostgreSQL**: Experienced in designing and managing relational databases with PostgreSQL, known for its robustness and performance.
-- **MongoDB**: Proficient in developing and managing NoSQL databases with MongoDB, suitable for flexible and scalable data storage.
-- **MySQL**: Skilled in working with MySQL databases, widely used for various types of applications due to its reliability and performance.
-
-### Tools
-- **Git**: Proficient in version control using Git, including branching, merging, and collaborating with teams using platforms like GitHub and GitLab.
-- **Docker**: Experienced in containerization using Docker, facilitating consistent and portable development and deployment environments.
-- **Jenkins**: Skilled in continuous integration and continuous deployment (CI/CD) pipelines using Jenkins, automating the software delivery process.
-
-### Cloud Platforms
-- **AWS (Amazon Web Services)**: Experienced in deploying and managing applications on AWS, utilizing services such as EC2, S3, Lambda, and RDS.
-- **Azure**: Proficient in developing and deploying applications on Microsoft Azure, leveraging services like Azure App Service, Azure SQL Database, and Azure Functions.
-
 ## Work Sample
 
 - [Room_mate](https://github.com/vikramkbgs/room-mate-v2) - This is a full-stack web application that allows users to find new roommates tailored to their preferences.
